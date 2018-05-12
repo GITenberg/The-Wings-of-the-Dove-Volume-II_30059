@@ -1,0 +1,34 @@
+_repo: The-Wings-of-the-Dove-Volume-II_30059
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2009-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Terminally ill -- Fiction'
+- !lcsh 'Venice (Italy) -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+title: The Wings of the Dove, Volume II
+url: http://www.gutenberg.org/ebooks/30059
